@@ -19,7 +19,7 @@ Digita o cmd.
 
 peek fe00d05c
 
-Se este der um valor em hex  0x01100110 (continue), caso aparece o valor 0x00000000 não continue, desculpa, isso não é para ti.
+Se este der um valor em hex  0x01100110 (continua), caso aparece o valor 0x00000000 não (continues) vais bater contra uma parede, desculpa, isso não é para ti.
 
 A chave final está no endereço fe24c020. 
 
