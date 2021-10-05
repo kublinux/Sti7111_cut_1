@@ -21,11 +21,11 @@ peek fe00d05c
 
 Se este der um valor em hex  0x01100110 (continua), caso aparece o valor 0x00000000 não (continues) vais bater contra uma parede, desculpa, isso não é para ti.
 
-A chave final está no endereço fe24c020. 
+A chave final está no endereço fe24c150. 
 
 Digite por favor
 
-display fe24c020 4
+display fe24c150 4
 
 Sortudo, podes jogar no euromilhões que vais acertar na nucha
 
