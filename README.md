@@ -1,32 +1,31 @@
 # 7111 cut 1
-Sti7111
 
-Retirar cwpk
+Exploit cwpk
 
-Isso é baseado em pdf de exploração segura. http://www.security-explorations.com/
+This is based on safe scanning pdf. http://www.security-explorations.com/
 
-Obrigado por este trabalho incrível!, mas eu continuo na minha esse amigo do security-explorations, é um Payserver
+Thanks for this amazing job!, but I'm still on mine this friend from security-explorations, it's a Payserver
 
-Ok, vamos ...
+Okay, let's go ...
 
-O primeiro a box precisa ter a porta uart ativa (TX / RX).
+The first box must have the uart port active (TX / RX).
 
-Às vezes, os (nabos) dos engenheiros cometem erros,  (para sorte dos Payservers)
+Sometimes the (turnips) of the engineers make mistakes, (luckily for the Payservers)
 
-Após entrar na Box deve-se verificar se este é vulnerável ou não.
+After entering the Box, check whether it is vulnerable or not.
 
-Digita o cmd.
+Type the cmd.
 
 peek fe00d05c
 
-Se este der um valor em hex  0x01100110 (continua), caso aparece o valor 0x00000000 não (continues) vais bater contra uma parede, desculpa, isso não é para ti.
+If it gives a hex value of 0x01100110 (continue), if the value 0x00000000 appears, no (continue) you will crash into a wall, sorry, this is not for you.
 
-A chave final está no endereço fe24c150. 
+The final key is at address fe24c150.
 
-Digite por favor
+enter please
 
 display fe24c150 4
 
-Sortudo, podes jogar no euromilhões que vais acertar na nucha
+Lucky, you can play in the euromillions that you'll hit the nape
 
- Ps: em breve colocarei aqui o code para Visual Studio net c#
+Ps: soon I'll put the code for Visual Studio net c# here 
