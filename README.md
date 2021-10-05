@@ -1,7 +1,7 @@
 # 7111 cut 1
 Sti7111
 
-Explorar cwpk
+Retirar cwpk
 
 Isso é baseado em pdf de exploração segura. http://www.security-explorations.com/
 
@@ -27,4 +27,6 @@ Digite por favor
 
 display fe24c020 4
 
-Sortudo podes jogar no euromilh~es que vais acertar na nuscha
+Sortudo podes jogar no euromilhões que vais acertar na nucha
+
+ Ps: em breve colocarei aqui o code para Visual Studio net c#
