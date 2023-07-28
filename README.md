@@ -34,4 +34,4 @@ Ps: soon I'll put the code for Visual Studio net c# here
 
 add new script(Ferro_fixo)
 
-I tested on friend and box(Pace maxtv ), key out OK
+I tested on friend and box( Pace maxtv ), dcwpk out OK
